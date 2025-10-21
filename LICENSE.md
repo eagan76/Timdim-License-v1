@@ -80,7 +80,7 @@ If necessary, this license may be enforced in the violator’s local jurisdictio
 
 ## 8. License Updates and Derivative Compliance
 
-The copyright holder, may release updated versions of this license to clarify terms, close loopholes, or address evolving legal circumstances.
+The license creator, may release updated versions of this license to clarify terms, close loopholes, or address evolving legal circumstances.
 
 This license and any updates thereof apply to both the original project and any derivative works based upon it.
 
