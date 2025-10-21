@@ -8,7 +8,7 @@ This is a **semi-open-source license** designed for software projects where the 
 - **Profit Restriction:** Only the original author may sell or profit from the software.
 - **Asset Protection:** Music, audio, and other creative assets are **not open-source** and cannot be used without explicit permission.
 - **AI/ML Restriction:** The code and assets may **not be used for AI or machine learning training** unless it is directly part of the software.
-- **License Updates:** The author can release updated versions of the license to clarify terms or close loopholes. Contributors to the project must approve updates for their prior contributions, and anyone incorporating code from the project must comply with the updated terms.
+- **License Updates:** The License author can release updated versions of the license to clarify terms or close loopholes. Contributors to the project must approve updates for their prior contributions, and anyone incorporating code from the project must comply with the updated terms.
 - **Enforcement:** Violations require written notice. The recipient has 62 days to comply. Any additional violations discovered during that period are included in the original notice.
 
 ## Why Use This License?
