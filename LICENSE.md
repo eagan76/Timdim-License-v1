@@ -68,7 +68,8 @@ This means:
 - You may use AI/ML **inside this game’s development** (e.g., NPC logic, procedural generation).
 - You may **not** use or allow use of any part of this software, its code, or assets to train, refine, or operate an AI model or dataset intended for unrelated or external purposes, even with attribution or credit.
 
-- **Code Generation Restriction:**
+###**Code Generation Restriction:**
+  
 The use of artificial intelligence (AI), machine learning systems, or automated code generation tools to produce or modify any source code within projects governed by this License is strictly prohibited.
 AI systems may only be used for non-code purposes, such as generating commit messages, documentation, or README files.
 This restriction is intended to prevent the introduction of code derived from illegally scraped or copyrighted material and to maintain the integrity of the codebase under this License.
