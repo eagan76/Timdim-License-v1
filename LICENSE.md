@@ -82,7 +82,7 @@ If necessary, this license may be enforced in the violator’s local jurisdictio
 
 The license creator, may release updated versions of this license to clarify terms, close loopholes, or address evolving legal circumstances.
 
-This license and any updates thereof apply to both the original project and any derivative works based upon it.
+When updates are made to this license projects may choose to upgrade to the new version and any updates thereof apply to both the original project and any derivative works based upon it.
 
  If the license of this project is updated to a new version, the license may only be updated to a new version of this license and **may not be changed to any other license**, including but not limited to MIT, GPL, or similar licenses.
 - All contributors who have previously contributed code or other substantial materials, including those whose contributions have since been removed, must be contacted and must agree to the license update.
