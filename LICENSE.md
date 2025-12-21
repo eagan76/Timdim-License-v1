@@ -20,7 +20,7 @@ You are free to:
 - Sales, advertising, sponsorships, crowdfunding, or donations.
 - Inclusion in paid bundles, subscriptions, or any monetized service.
 - Use by organizations, companies, or individuals in a way that results in any monetary or material benefit.
-- Only the original author, may profit from this software or any derivative work. Authors of derivative work may only profit if there is more than 50% more material then the original (material being code, music and art) the creator of driven of work must contact the original author and ask if their project can be profited off of if there is no response within 45 days the author may go ahead and begin to profit.
+- Only the original author, may profit from this software or any derivative work. Authors of derivative work may only profit if there is more than 50% more material then the original (material being code, music and art) the creator of derivative work must contact the original author and ask if their project can be profited off of if there is no response within 45 days the author may go ahead and begin to profit.
 - You **must keep this same license** attached to any copy or derivative you distribute.
 - All derivative works must remain **under this exact license**.
 
